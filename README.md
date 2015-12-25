@@ -1,1 +1,3 @@
-# Productive Peach Issues - 
+# Productive Peach Issues - Automatic screenshot software
+
+Automatic Screenshot Time Tracking
